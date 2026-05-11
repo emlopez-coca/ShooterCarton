@@ -1,0 +1,23 @@
+[17044:5036:0511/081731.870:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17044:25396:0511/081731.930:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17044:5036:0511/081731.960:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17044:5036:0511/081734.687:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[26816:26808:0511/081735.887:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-666BF6B7764D6155711E358C81318BDC will be ignored
+[19260:27880:0511/084744.292:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[19260:27880:0511/084744.292:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[19260:27880:0511/084744.292:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[19260:27880:0511/084744.292:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1x1 (100% of ideal size)
+[19260:27880:0511/084744.434:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1x1
+[19260:27880:0511/084744.503:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
+[19260:27880:0511/084744.503:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 1x1 to 1000x567 (100% of ideal size)
+[19260:27880:0511/084744.503:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
+[19260:27880:0511/084745.570:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[19260:27880:0511/084745.570:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[19260:27880:0511/084745.570:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
+[19260:27880:0511/084745.570:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 1000x567 (100% of ideal size)
+[28588:28592:0511/084745.570:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-628B99EA1C56FDBE68EF227BBFF47443 will be ignored
+[19260:27880:0511/084746.433:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 1000x567
+[19260:27880:0511/084809.126:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #356).
+[19260:27880:0511/084809.262:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #363).
+[19260:27880:0511/084809.277:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #363).
+[17044:5036:0511/093109.935:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
